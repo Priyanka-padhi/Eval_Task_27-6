@@ -1,0 +1,46 @@
+table {
+  width: 70%;
+  margin-left: 5%;
+  margin-top: 10%;
+  text-align: center;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  border: 2px solid black;
+  border-color: lightblue;
+}
+
+th {
+  background-color: rgb(212, 224, 228);
+  height: 40px;
+  width: 60px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  height: 70px;
+  width: 60px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.deletebtn {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  width: 30px;
+}
+
+select {
+  width: 60%;
+  height: 30px;
+}
+
+.addbtn {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  width: 15%;
+  height: 35px;
+  margin-left: 55px;
+}
